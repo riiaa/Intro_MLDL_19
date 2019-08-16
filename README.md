@@ -3,6 +3,7 @@
 Este repositorio de github contiene material para el workshop "Introduccion a Machine Learning y Deep Learning" dentro de la [RIIAA '19](www.riiaa.org).
 Este taller desarollara conceptos basicos de machine learning usnado como base los datos de simulacion usando para el decusbrimiento del boson de Higgs. No te preocupes, no necesitas saber fisica para trabajar con estos datos, pero podria ser util. Los datos de este taller estan descritos en https://higgsml.lal.in2p3.fr/files/2014/04/documentation_v1.8.pdf y estan basados en el Kaggle challenge: https://www.kaggle.com/c/higgs-boson.
 
+![](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/CONFNOTES/ATLAS-CONF-2013-108/)
 
 ## Requisitos para el taller
 
